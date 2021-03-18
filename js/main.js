@@ -14,6 +14,6 @@
 
     //SOLUZIONE 2 ANIMAZIONE SE INSERISCO UNA STRINGA DENTRO TOGGLE
 $('.fa-bars,.fa-times').click(function () {
-    $('.hamburger-menu').toggle.delay(slow);
+    $('.hamburger-menu').toggle('');
 });
 
